@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TestPHP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{451E57C4-868C-4C35-B5AC-644E8A5FCC04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestPHP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TestPHPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{92C635A0-6375-4D5D-92C8-2313EFDF0247}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TestPHP">
+      <UniqueIdentifier>{51A2855F-8629-47D2-8636-A63EDC272290}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TestPHP\TestPHP.Build.cs">
+      <Filter>Source\TestPHP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TestPHP\TestPHP.cpp">
+      <Filter>Source\TestPHP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestPHP\TestPHP.h">
+      <Filter>Source\TestPHP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TestPHP\TestPHPGameModeBase.cpp">
+      <Filter>Source\TestPHP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TestPHP\TestPHPGameModeBase.h">
+      <Filter>Source\TestPHP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

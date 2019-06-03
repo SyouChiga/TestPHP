@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestPHP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Desk\Git\UE4_PHP\TestPHP\Intermediate\Build\Win64\TestPHPEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Desk\Git\UE4_PHP\TestPHP\Intermediate\Build\Win64\UE4Editor\Development\TestPHP\TestPHP.cpp.obj"
+"D:\Desk\Git\UE4_PHP\TestPHP\Intermediate\Build\Win64\UE4Editor\Development\TestPHP\TestPHPGameModeBase.cpp.obj"
+"D:\Desk\Git\UE4_PHP\TestPHP\Intermediate\Build\Win64\UE4Editor\Development\TestPHP\TestPHP.init.gen.cpp.obj"
+"D:\Desk\Git\UE4_PHP\TestPHP\Intermediate\Build\Win64\UE4Editor\Development\TestPHP\TestPHPGameModeBase.gen.cpp.obj"
+"D:\Desk\Git\UE4_PHP\TestPHP\Intermediate\Build\Win64\UE4Editor\Development\TestPHP\PCLaunch.rc.res"
+/OUT:"D:\Desk\Git\UE4_PHP\TestPHP\Intermediate\Build\Win64\UE4Editor\Development\TestPHP\UE4Editor-TestPHP.lib"
